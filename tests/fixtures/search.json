@@ -1,0 +1,111 @@
+{
+ "data": {
+  "id": "search",
+  "totalResults": 103,
+  "items": [
+   {
+    "id": 1300502074,
+    "type": "game-title",
+    "typeId": 13,
+    "title": "The Legend of Zelda: Tears of the Kingdom",
+    "slug": "the-legend-of-zelda-tears-of-the-kingdom",
+    "images": [
+     {
+      "bucketPath": "/provider/6/3/6-1-939061-13.jpg",
+      "typeName": "cardImage"
+     }
+    ],
+    "criticScoreSummary": {
+     "url": "/game/the-legend-of-zelda-tears-of-the-kingdom/critic-reviews/",
+     "score": 96
+    },
+    "rating": "E10+",
+    "releaseDate": "2023-05-12",
+    "premiereYear": 2023,
+    "genres": [
+     {
+      "id": null,
+      "name": "Open-World Action"
+     }
+    ],
+    "platforms": [
+     {
+      "id": null,
+      "name": "Nintendo Switch"
+     }
+    ],
+    "seasonCount": 0,
+    "description": "An epic adventure across the land and skies of Hyrule awaits in The Legend of Zelda™: Tears of the Kingdom for Nintendo Switch™. The adventure is yours to ...",
+    "duration": null,
+    "mustSee": true,
+    "mustWatch": true,
+    "mustPlay": true
+   },
+   {
+    "id": 1300108776,
+    "type": "game-title",
+    "typeId": 13,
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "slug": "the-legend-of-zelda-breath-of-the-wild",
+    "images": [
+     {
+      "bucketPath": "/provider/6/3/6-1-844837-13.jpg",
+      "typeName": "cardImage"
+     }
+    ],
+    "criticScoreSummary": {
+     "url": "/game/the-legend-of-zelda-breath-of-the-wild/critic-reviews/",
+     "score": 97
+    },
+    "rating": "E10+",
+    "releaseDate": "2017-03-03",
+    "premiereYear": 2017,
+    "genres": [
+     {
+      "id": null,
+      "name": "Open-World Action"
+     }
+    ],
+    "platforms": [
+     {
+      "id": null,
+      "name": "Nintendo Switch"
+     },
+     {
+      "id": null,
+      "name": "Wii U"
+     }
+    ],
+    "seasonCount": 0,
+    "description": "Ignore everything you know about The Legend of Zelda games. Step into a world of discovery, exploration and adventure in The Legend of Zelda: Breath of the ...",
+    "duration": null,
+    "mustSee": true,
+    "mustWatch": true,
+    "mustPlay": true
+   },
+   {
+    "id": 3015436053,
+    "type": "person",
+    "typeId": 3,
+    "title": "Zelda",
+    "slug": "zelda",
+    "images": [],
+    "criticScoreSummary": {
+     "url": "/person/zelda/critic-reviews/",
+     "score": null
+    },
+    "rating": null,
+    "releaseDate": null,
+    "premiereYear": null,
+    "genres": [],
+    "platforms": [],
+    "seasonCount": 0,
+    "description": null,
+    "duration": null,
+    "mustSee": false,
+    "mustWatch": false,
+    "mustPlay": false
+   }
+  ]
+ }
+}

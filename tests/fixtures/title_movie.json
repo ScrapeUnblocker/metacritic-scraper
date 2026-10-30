@@ -1,0 +1,352 @@
+{
+ "path": "/movie/oppenheimer/",
+ "data": {
+  "loadPage:movies:oppenheimer:": {
+   "components": [
+    {
+     "data": {
+      "item": {
+       "id": 2000556373,
+       "type": "movie",
+       "typeId": 2,
+       "title": "Oppenheimer",
+       "description": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+       "slug": "oppenheimer",
+       "premiereYear": 2023,
+       "releaseDate": "2023-07-21",
+       "releaseDateText": "Unknown",
+       "images": [
+        {
+         "bucketPath": "/provider/2/2/2-4d89ba358a1e5962a85eb8fc179d0388.jpg",
+         "typeName": "mainImage"
+        },
+        {
+         "bucketPath": "/provider/2/2/2-1eb1f4e55bae25df01d3f1960fdf691a.jpg",
+         "typeName": "cardImage"
+        }
+       ],
+       "image": {
+        "bucketPath": "/provider/2/2/2-4d89ba358a1e5962a85eb8fc179d0388.jpg"
+       },
+       "showTimesLink": null,
+       "production": {
+        "companies": [
+         {
+          "id": 4020005073,
+          "typeId": 3,
+          "typeName": "Production Company",
+          "name": "Universal Pictures",
+          "url": null
+         },
+         {
+          "id": 4020147954,
+          "typeId": 3,
+          "typeName": "Production Company",
+          "name": "Syncopy",
+          "url": null
+         },
+         {
+          "id": 4020028338,
+          "typeId": 3,
+          "typeName": "Production Company",
+          "name": "Atlas Entertainment",
+          "url": null
+         }
+        ],
+        "officialSite": "https://www.oppenheimermovie.com/",
+        "cast": [
+         {
+          "id": 3000614165,
+          "name": "Cillian Murphy",
+          "roles": [
+           "J. Robert Oppenheimer"
+          ],
+          "roleTypeGroupId": 3,
+          "roleTypeGroupName": "Cast",
+          "entertainmentProduct": {
+           "url": "/person/cillian-murphy/",
+           "slug": "cillian-murphy"
+          }
+         },
+         {
+          "id": 3001289434,
+          "name": "Emily Blunt",
+          "roles": [
+           "Kitty Oppenheimer"
+          ],
+          "roleTypeGroupId": 3,
+          "roleTypeGroupName": "Cast",
+          "entertainmentProduct": {
+           "url": "/person/emily-blunt/",
+           "slug": "emily-blunt"
+          }
+         },
+         {
+          "id": 3000000354,
+          "name": "Matt Damon",
+          "roles": [
+           "Leslie Groves"
+          ],
+          "roleTypeGroupId": 3,
+          "roleTypeGroupName": "Cast",
+          "entertainmentProduct": {
+           "url": "/person/matt-damon/",
+           "slug": "matt-damon"
+          }
+         }
+        ],
+        "crew": [
+         {
+          "id": 3000634240,
+          "name": "Christopher Nolan",
+          "roles": [],
+          "roleTypeGroupId": 1,
+          "roleTypeGroupName": "Directed By",
+          "entertainmentProduct": {
+           "url": "/person/christopher-nolan/",
+           "slug": "christopher-nolan"
+          }
+         },
+         {
+          "id": 3000634240,
+          "name": "Christopher Nolan",
+          "roles": [
+           "written for the screen by"
+          ],
+          "roleTypeGroupId": 2,
+          "roleTypeGroupName": "Written By",
+          "entertainmentProduct": {
+           "url": "/person/christopher-nolan/",
+           "slug": "christopher-nolan"
+          }
+         },
+         {
+          "id": 3003284831,
+          "name": "Kai Bird",
+          "roles": [
+           "book \"American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer\""
+          ],
+          "roleTypeGroupId": 2,
+          "roleTypeGroupName": "Written By",
+          "entertainmentProduct": {
+           "url": "/person/kai-bird/",
+           "slug": "kai-bird"
+          }
+         }
+        ]
+       },
+       "criticScoreSummary": {
+        "url": "/movie/oppenheimer/critic-reviews/",
+        "max": 100,
+        "score": 90,
+        "normalizedScore": 89.8803,
+        "reviewCount": 69,
+        "positiveCount": 67,
+        "neutralCount": 2,
+        "negativeCount": 0,
+        "sentiment": "Universal acclaim"
+       },
+       "tags": [
+        "manhattan-project",
+        "nuclear-physicist",
+        "american-politics",
+        "los-alamos-new-mexico"
+       ],
+       "genres": [
+        {
+         "id": 2300002004,
+         "name": "Biography"
+        },
+        {
+         "id": 2300002008,
+         "name": "Drama"
+        },
+        {
+         "id": 2300002013,
+         "name": "History"
+        }
+       ],
+       "rating": "R",
+       "duration": 180,
+       "awards": [
+        {
+         "awardEvent": "Academy Awards, USA",
+         "wins": 7,
+         "nominations": 13
+        },
+        {
+         "awardEvent": "Golden Globes, USA",
+         "wins": 5,
+         "nominations": 8
+        }
+       ],
+       "inTheaters": false,
+       "tagline": "The World Forever Changes",
+       "networks": [
+        {
+         "id": null,
+         "name": null,
+         "type": null,
+         "url": null
+        }
+       ],
+       "imdbLink": null,
+       "imdbId": "tt15398776"
+      }
+     },
+     "meta": {
+      "componentName": "product",
+      "componentDisplayName": "Product",
+      "componentType": "Product"
+     }
+    },
+    {
+     "data": {
+      "item": {
+       "hasOffers": true,
+       "free": [],
+       "rent": [
+        {
+         "providerId": 10,
+         "providerName": "Amazon Video",
+         "link": "https://click.justwatch.com/a?cx=trimmed&r=https%3A%2F%2Fwatch.amazon.com%2Fdetail%3Fgti%3Damzn1.dv.gti.f60cf07a-7363-411e-9f4a-b93b568ef3d3",
+         "options": [
+          {
+           "qualityType": "4K",
+           "optionPrice": 3.99,
+           "optionCurrency": "$",
+           "optionCurrencyCode": "USD",
+           "offerType": "DEFAULT"
+          }
+         ],
+         "monetization": "rent"
+        }
+       ],
+       "buy": [],
+       "flatrate": [
+        {
+         "providerId": 386,
+         "providerName": "Peacock Premium",
+         "link": "https://click.justwatch.com/a?cx=trimmed&r=https%3A%2F%2Fwww.peacocktv.com%2Fwatch%2Fasset%2Fmovies%2Foppenheimer%2F602fd345-3ad6-33fd-a70d-a0e059b8d38a",
+         "options": [
+          {
+           "qualityType": "HD",
+           "optionCurrency": "$",
+           "optionCurrencyCode": "USD",
+           "offerType": "DEFAULT"
+          }
+         ],
+         "monetization": "flatrate"
+        }
+       ],
+       "ads": [
+        {
+         "providerId": 332,
+         "providerName": "Fandango at Home Free",
+         "link": "https://click.justwatch.com/a?cx=trimmed&r=https%3A%2F%2Fathome.fandango.com%2Fcontent%2Fbrowse%2Fdetails%2FOppenheimer%2F2535279",
+         "options": [
+          {
+           "qualityType": "HD",
+           "optionCurrency": "$",
+           "optionCurrencyCode": "USD",
+           "offerType": "DEFAULT"
+          }
+         ],
+         "monetization": "ads"
+        }
+       ],
+       "meta": {
+        "title": "Oppenheimer",
+        "fullPath": "/us/movie/oppenheimer",
+        "locale": "en_US",
+        "objectType": "movie"
+       }
+      }
+     },
+     "meta": {
+      "componentName": "where-to-watch",
+      "componentDisplayName": "Where to Watch",
+      "componentType": "WhereToWatch"
+     }
+    },
+    {
+     "data": {
+      "item": {
+       "id": null,
+       "max": 100,
+       "score": 90,
+       "reviewCount": 69,
+       "positiveCount": 67,
+       "neutralCount": 2,
+       "negativeCount": 0,
+       "sentiment": "Universal acclaim",
+       "url": "/movie/oppenheimer/critic-reviews/"
+      }
+     },
+     "meta": {
+      "componentName": "critic-score-summary",
+      "componentDisplayName": "Critic Score Summary",
+      "componentType": "MetaScoreSummary"
+     }
+    },
+    {
+     "data": {
+      "id": 2000556373,
+      "totalResults": 69,
+      "item": {
+       "default": [],
+       "positive": [],
+       "neutral": [],
+       "negative": []
+      }
+     },
+     "meta": {
+      "componentName": "critic-reviews",
+      "componentDisplayName": "Critic Reviews",
+      "componentType": "ProductReviewsSummary"
+     }
+    },
+    {
+     "data": {
+      "item": {
+       "id": "2000556373",
+       "max": 10,
+       "score": 8.4,
+       "reviewCount": 2286,
+       "positiveCount": 2001,
+       "neutralCount": 155,
+       "negativeCount": 130,
+       "sentiment": "Universal acclaim",
+       "url": "/movie/oppenheimer/user-reviews/"
+      }
+     },
+     "meta": {
+      "componentName": "user-score-summary",
+      "componentDisplayName": "User Score Summary",
+      "componentType": "MetaScoreSummary"
+     }
+    },
+    {
+     "data": {
+      "id": "2000556373",
+      "totalResults": 580,
+      "item": {
+       "default": [],
+       "positive": [],
+       "neutral": [],
+       "negative": []
+      }
+     },
+     "meta": {
+      "componentName": "user-reviews",
+      "componentDisplayName": "User Reviews",
+      "componentType": "ProductReviewsSummary"
+     }
+    }
+   ],
+   "meta": {
+    "title": null
+   }
+  }
+ }
+}

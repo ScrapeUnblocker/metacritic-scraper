@@ -1,0 +1,130 @@
+{
+ "path": "/browse/tv/all/all/all-time/new/",
+ "data": {
+  "browse-tv-/browse/tv/all/all/all-time/new/": {
+   "items": [
+    {
+     "id": 5001368534,
+     "type": "season",
+     "typeId": 5,
+     "title": "Nocturne (2026)",
+     "slug": "nocturne-2026",
+     "premiereYear": 2026,
+     "releaseDate": "2026-10-30",
+     "rating": null,
+     "rank": 1,
+     "seoUrl": null,
+     "image": {
+      "bucketPath": "/provider/2/2/2-929b9e7046d837d7939085a47cea021c.jpg",
+      "typeName": null
+     },
+     "criticScoreSummary": {
+      "url": "/tv/nocturne-2026/critic-reviews/?season=season-1",
+      "max": 100,
+      "score": 70,
+      "reviewCount": 13,
+      "positiveCount": 9,
+      "neutralCount": 4,
+      "negativeCount": 0,
+      "sentiment": "Generally favorable"
+     },
+     "genres": [
+      {
+       "id": null,
+       "name": "Crime"
+      },
+      {
+       "id": null,
+       "name": "Drama"
+      },
+      {
+       "id": null,
+       "name": "Mystery"
+      },
+      {
+       "id": null,
+       "name": "Thriller"
+      }
+     ],
+     "numberOfSeasons": 1,
+     "season": {
+      "id": 5001368534,
+      "number": 1,
+      "slug": "season-1",
+      "title": "Season 1",
+      "url": "/tv/nocturne-2026/season-1/"
+     },
+     "network": null,
+     "platforms": [],
+     "inTheaters": false,
+     "description": "Philadelphia police detective Jonah Lynn (Liev Schreiber) and the small town he just moved to is targeted by a serial killer named Jurek Walter (Stephen ...",
+     "duration": 0,
+     "userScore": {
+      "score": null
+     }
+    },
+    {
+     "id": 5002368085,
+     "type": "season",
+     "typeId": 5,
+     "title": "Dexter: Resurrection",
+     "slug": "dexter-resurrection",
+     "premiereYear": 2026,
+     "releaseDate": "2026-10-30",
+     "rating": "TV-MA",
+     "rank": 1,
+     "seoUrl": null,
+     "image": {
+      "bucketPath": "/provider/2/2/2-368a96484d93ce7b630bfd37caf875de.jpg",
+      "typeName": null
+     },
+     "criticScoreSummary": {
+      "url": "/tv/dexter-resurrection/critic-reviews/?season=season-2",
+      "max": 100,
+      "score": 75,
+      "reviewCount": 5,
+      "positiveCount": 4,
+      "neutralCount": 1,
+      "negativeCount": 0,
+      "sentiment": "Generally favorable"
+     },
+     "genres": [
+      {
+       "id": null,
+       "name": "Crime"
+      },
+      {
+       "id": null,
+       "name": "Drama"
+      },
+      {
+       "id": null,
+       "name": "Mystery"
+      },
+      {
+       "id": null,
+       "name": "Thriller"
+      }
+     ],
+     "numberOfSeasons": 2,
+     "season": {
+      "id": 5002368085,
+      "number": 2,
+      "slug": "season-2",
+      "title": "Season 2",
+      "url": "/tv/dexter-resurrection/season-2/"
+     },
+     "network": null,
+     "platforms": [],
+     "inTheaters": false,
+     "description": "Dexter Morgan (Michael C. Hall) searches for his son Harrison (Jack Alcott) in New York City, but former Miami Metro colleague Angel Batista (David Zayas) ...",
+     "duration": 50,
+     "userScore": {
+      "score": null
+     }
+    }
+   ],
+   "total": 23249
+  }
+ }
+}

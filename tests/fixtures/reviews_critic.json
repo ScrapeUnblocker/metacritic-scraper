@@ -1,0 +1,62 @@
+{
+ "data": {
+  "id": 1400570838,
+  "totalResults": 63,
+  "items": [
+   {
+    "quote": "Elden Ring is an experience that will not be forgotten in a hurry. It's a tremendous, hulking, massive achievement but because it is tremendous, hulking and massive, it is one that comes with many caveats. The shelves in CeX and conversations with people who stopped playing at Stormveil castle can certainly attest to some of those caveats. Much like any FromSoftware title, it's not going to be for everybody, but paradoxically it is one of their hardest and one of their most accessible to date. It offers huge value in one package, and perhaps is a little too much value, only becoming clearer when nearing the endgame. Don't be mistaken by the criticism, though. This is a phenomenal achievement with a moment-to-moment that is incredibly engaging and immersive. No doubt it will be deserving of the end-of-year accolades it will inevitably receive. One pushes through Elden Ring as one pushes through life, with all the highs and the lows that it brings.",
+    "score": 70,
+    "url": "http://www.cubed3.com/review/6703/1/elden-ring-pc.html",
+    "date": "2022-08-29",
+    "author": "",
+    "authorSlug": null,
+    "image": null,
+    "publicationName": "Cubed3",
+    "publicationSlug": "cubed3",
+    "reviewedProduct": {
+     "id": 1400570838,
+     "type": "games",
+     "title": "Elden Ring",
+     "url": "/game/elden-ring/"
+    },
+    "platform": "PC"
+   },
+   {
+    "quote": "Elden Ring is massive, sometimes to its detriment. A thorough walkthrough might take up more than 100 hours to complete, and at some point it becomes clear that From Software did not have enough manpower to produce that much unique content. Still, it remains incredibly addictive even after those 100 hours pass…",
+    "score": 82,
+    "url": "https://riotpixels.com/elden-ring-review/",
+    "date": "2022-04-28",
+    "author": "",
+    "authorSlug": null,
+    "image": null,
+    "publicationName": "Riot Pixels",
+    "publicationSlug": "riot-pixels",
+    "reviewedProduct": {
+     "id": 1400570838,
+     "type": "games",
+     "title": "Elden Ring",
+     "url": "/game/elden-ring/"
+    },
+    "platform": "PC"
+   },
+   {
+    "quote": "It’s hard to review Elden Ring without being comparative; that’s because Elden Ring is an evolutionary step, not a revolutionary one, and one can’t help but see how it’s built on what came before. Here is a massive undertaking of a game, not for the sake of chasing trends but as the natural progression of the style the company has been fostering for over a decade. It’s amazing how smoothly the transition to open world was and how much of the Souls identity is still present. In the short time since its release, it has already left a cultural mark, no doubt a result of the game’s increased approachability. Even after sifting past all the hype and grandiosity, there’s still an excellent game left and Elden Ring is a clear showcase of FromSoftware’s outstanding expertise in the field. Elden Ring really is just that good.",
+    "score": 90,
+    "url": "https://rpgamer.com/review/elden-ring-review/",
+    "date": "2022-04-14",
+    "author": "",
+    "authorSlug": null,
+    "image": null,
+    "publicationName": "RPGamer",
+    "publicationSlug": "rpgamer",
+    "reviewedProduct": {
+     "id": 1400570838,
+     "type": "games",
+     "title": "Elden Ring",
+     "url": "/game/elden-ring/"
+    },
+    "platform": "PC"
+   }
+  ]
+ }
+}

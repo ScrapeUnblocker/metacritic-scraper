@@ -1,0 +1,56 @@
+{
+ "data": {
+  "id": "2000556373",
+  "totalResults": 580,
+  "items": [
+   {
+    "id": "02848947-99c7-47aa-ab0d-a97c3bc9c1c6",
+    "quote": "Wow, that movie was great. Especially the explosion scenes were really enjoyable to watch and listen to. I would like to see more of Jack Quaid's Feynman character. Although the movie seems to go in a different direction after a certain event (which I would like to watch more side characters instead of these parts), it managed to glue me to the screen during its 3 hour duration.",
+    "score": 10,
+    "thumbsUp": null,
+    "thumbsDown": null,
+    "date": "2023-07-21",
+    "author": "5aurus",
+    "spoiler": false,
+    "reviewedProduct": {
+     "id": 2000556373,
+     "type": "movies",
+     "title": "Oppenheimer",
+     "url": "/movie/oppenheimer/"
+    }
+   },
+   {
+    "id": "66779d50-d487-46c8-b5c0-04f75cd04ce8",
+    "quote": "As a devoted fan of historical dramas, I can confidently say that \"Oppenheimer\" is an absolute masterpiece! Christopher Nolan has once again delivered an awe-inspiring cinematic experience that leaves the audience spellbound from start to finish.\n\nCasting Cillian Murphy as Robert Oppenheimer was a stroke of genius. His portrayal of the conflicted scientist was both nuanced and emotionally charged. He brilliantly captured Oppenheimer's intellect, determination, and moral dilemmas, making the character come alive on the screen. Murphy delivers an Oscar-worthy performance. Also, Robert Downey Jr as Lewis Strauss did an excellent performance. This is by far Downey's best performance, and he also deserves an Oscar nomination. The supporting cast is equally praiseworthy, with outstanding performances from Emily Blunt, Matt Damon, and Florence Pugh.\n\nFrom the first frame, the film immerses its audience in a spellbinding narrative that perfectly balances historical accuracy and captivating storytelling. The attention to detail in depicting the era is unparalleled, transporting viewers back to the 1940s and the intensity of the Manhattan Project. The meticulous recreation of the Los Alamos laboratory and the wartime atmosphere adds an authentic touch, making the viewers feel like eyewitnesses to a defining moment in history.\n\nThe cinematography deserves special commendation, as it brilliantly captures both the beauty of the New Mexico landscape and the intensity of the laboratory's scientific endeavor. The haunting musical score adds an extra layer of depth, heightening the emotional impact of critical moments throughout the movie.\n\n\"Oppenheimer\" stands as a testament to the power of cinema to educate, entertain, and provoke introspection. It expertly delves into the complex interplay of science, politics, and human morality, reminding the profound implications that scientific discoveries can have on the world.\n\nChristopher Nolan has once again proven why he is one of the greatest directors of our time. Brilliantly written, impeccably directed, and expertly performed, the film leaves an indelible impression that will stay with viewers long after leaving the theater.",
+    "score": 10,
+    "thumbsUp": null,
+    "thumbsDown": null,
+    "date": "2023-07-21",
+    "author": "Shoeb",
+    "spoiler": false,
+    "reviewedProduct": {
+     "id": 2000556373,
+     "type": "movies",
+     "title": "Oppenheimer",
+     "url": "/movie/oppenheimer/"
+    }
+   },
+   {
+    "id": "a36b5777-8122-442b-ad79-06f3943e73aa",
+    "quote": "Incredible achievement to create a movie Thats is 3 hours long and barely contains any action, but completely entchants you in its tension.",
+    "score": 10,
+    "thumbsUp": null,
+    "thumbsDown": null,
+    "date": "2023-07-26",
+    "author": "Lemur123y",
+    "spoiler": false,
+    "reviewedProduct": {
+     "id": 2000556373,
+     "type": "movies",
+     "title": "Oppenheimer",
+     "url": "/movie/oppenheimer/"
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,151 @@
+{
+ "path": "/browse/game/all/all/all-time/metascore/?platform=ps5&platform=pc&releaseYearMin=2020&releaseYearMax=2025&genre=rpg",
+ "data": {
+  "browse-game-/browse/game/all/all/all-time/metascore/?platform=ps5&platform=pc&releaseYearMin=2020&releaseYearMax=2025&genre=rpg": {
+   "items": [
+    {
+     "id": 1300482351,
+     "type": "game-title",
+     "typeId": 13,
+     "title": "Kynseed",
+     "slug": "kynseed",
+     "premiereYear": 2022,
+     "releaseDate": "2022-12-06",
+     "rating": null,
+     "rank": 1,
+     "seoUrl": null,
+     "image": {
+      "bucketPath": "/provider/6/12/6-1-664696-52.jpg",
+      "typeName": null
+     },
+     "criticScoreSummary": {
+      "url": "/game/kynseed/critic-reviews/",
+      "max": 100,
+      "score": 89,
+      "reviewCount": 7,
+      "positiveCount": 5,
+      "neutralCount": 1,
+      "negativeCount": 0,
+      "sentiment": "Generally favorable"
+     },
+     "genres": [
+      {
+       "id": null,
+       "name": "RPG"
+      }
+     ],
+     "numberOfSeasons": 0,
+     "season": null,
+     "network": null,
+     "platforms": [
+      {
+       "id": 1500000019,
+       "name": "PC"
+      }
+     ],
+     "inTheaters": false,
+     "description": "You've been given the Kynseed, a mystical acorn that grows into a family tree where your choices manifest in its branches. Raise a family, farm the land, run ...",
+     "duration": 0,
+     "userScore": {
+      "score": 7.5
+     }
+    },
+    {
+     "id": 1300506530,
+     "type": "game-title",
+     "typeId": 13,
+     "title": "Omori",
+     "slug": "omori",
+     "premiereYear": 2020,
+     "releaseDate": "2020-12-25",
+     "rating": null,
+     "rank": 2,
+     "seoUrl": null,
+     "image": {
+      "bucketPath": "/provider/6/12/6-1-726343-52.jpg",
+      "typeName": null
+     },
+     "criticScoreSummary": {
+      "url": "/game/omori/critic-reviews/",
+      "max": 100,
+      "score": 88,
+      "reviewCount": 7,
+      "positiveCount": 6,
+      "neutralCount": 0,
+      "negativeCount": 0,
+      "sentiment": "Generally favorable"
+     },
+     "genres": [
+      {
+       "id": null,
+       "name": "RPG"
+      }
+     ],
+     "numberOfSeasons": 0,
+     "season": null,
+     "network": null,
+     "platforms": [
+      {
+       "id": 1500000019,
+       "name": "PC"
+      }
+     ],
+     "inTheaters": false,
+     "description": " Explore a strange world full of colorful friends and foes. When the time comes, the path you’ve chosen will determine your fate... and perhaps the fate of ...",
+     "duration": 0,
+     "userScore": {
+      "score": 9
+     }
+    },
+    {
+     "id": 1300607656,
+     "type": "game-title",
+     "typeId": 13,
+     "title": "Arco",
+     "slug": "arco",
+     "premiereYear": 2024,
+     "releaseDate": "2024-08-15",
+     "rating": null,
+     "rank": 3,
+     "seoUrl": null,
+     "image": {
+      "bucketPath": "/provider/7/2/7-1724436799.jpg",
+      "typeName": null
+     },
+     "criticScoreSummary": {
+      "url": "/game/arco/critic-reviews/",
+      "max": 100,
+      "score": 86,
+      "reviewCount": 14,
+      "positiveCount": 13,
+      "neutralCount": 0,
+      "negativeCount": 0,
+      "sentiment": "Generally favorable"
+     },
+     "genres": [
+      {
+       "id": null,
+       "name": "RPG"
+      }
+     ],
+     "numberOfSeasons": 0,
+     "season": null,
+     "network": null,
+     "platforms": [
+      {
+       "id": 1500000019,
+       "name": "PC"
+      }
+     ],
+     "inTheaters": false,
+     "description": "Enter the breathtaking world of Arco, a dynamic tactical RPG where your decisions shape the story. Three tales forged in bloodshed, laced with magic, and ...",
+     "duration": 0,
+     "userScore": {
+      "score": 8.2
+     }
+    }
+   ],
+   "total": 42
+  }
+ }
+}

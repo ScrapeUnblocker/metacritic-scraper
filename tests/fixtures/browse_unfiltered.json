@@ -1,0 +1,151 @@
+{
+ "path": "/browse/game/all/all/all-time/metascore/?platform=bogus-xyz",
+ "data": {
+  "browse-game-/browse/game/all/all/all-time/metascore/?platform=bogus-xyz": {
+   "items": [
+    {
+     "id": 1300001290,
+     "type": "game-title",
+     "typeId": 13,
+     "title": "The Legend of Zelda: Ocarina of Time (1998)",
+     "slug": "the-legend-of-zelda-ocarina-of-time",
+     "premiereYear": 1998,
+     "releaseDate": "1998-11-23",
+     "rating": "E",
+     "rank": 1,
+     "seoUrl": null,
+     "image": {
+      "bucketPath": "/provider/6/3/6-1-4763-13.jpg",
+      "typeName": null
+     },
+     "criticScoreSummary": {
+      "url": "/game/the-legend-of-zelda-ocarina-of-time/critic-reviews/",
+      "max": 100,
+      "score": 99,
+      "reviewCount": 22,
+      "positiveCount": 22,
+      "neutralCount": 0,
+      "negativeCount": 0,
+      "sentiment": "Universal acclaim"
+     },
+     "genres": [
+      {
+       "id": null,
+       "name": "Open-World Action"
+      }
+     ],
+     "numberOfSeasons": 0,
+     "season": null,
+     "network": null,
+     "platforms": [
+      {
+       "id": 1500000084,
+       "name": "Nintendo 64"
+      }
+     ],
+     "inTheaters": false,
+     "description": "As a young boy, Link is tricked by Ganondorf, the King of the Gerudo Thieves. The evil human uses Link to gain access to the Sacred Realm, where he places his ...",
+     "duration": 0,
+     "userScore": {
+      "score": 9.1
+     }
+    },
+    {
+     "id": 1300001928,
+     "type": "game-title",
+     "typeId": 13,
+     "title": "SoulCalibur",
+     "slug": "soulcalibur",
+     "premiereYear": 1999,
+     "releaseDate": "1999-09-08",
+     "rating": "T",
+     "rank": 2,
+     "seoUrl": null,
+     "image": {
+      "bucketPath": "/provider/6/3/6-1-7379-13.jpg",
+      "typeName": null
+     },
+     "criticScoreSummary": {
+      "url": "/game/soulcalibur/critic-reviews/",
+      "max": 100,
+      "score": 98,
+      "reviewCount": 24,
+      "positiveCount": 24,
+      "neutralCount": 0,
+      "negativeCount": 0,
+      "sentiment": "Universal acclaim"
+     },
+     "genres": [
+      {
+       "id": null,
+       "name": "3D Fighting"
+      }
+     ],
+     "numberOfSeasons": 0,
+     "season": null,
+     "network": null,
+     "platforms": [
+      {
+       "id": 1500000067,
+       "name": "Dreamcast"
+      }
+     ],
+     "inTheaters": false,
+     "description": "This is a tale of souls and swords, transcending the world and all its history, told for all eternity... The greatest weapons-based fighter returns, this time ...",
+     "duration": 0,
+     "userScore": {
+      "score": 7.5
+     }
+    },
+    {
+     "id": 1300044129,
+     "type": "game-title",
+     "typeId": 13,
+     "title": "Super Mario Galaxy 2",
+     "slug": "super-mario-galaxy-2",
+     "premiereYear": 2010,
+     "releaseDate": "2010-05-23",
+     "rating": "E",
+     "rank": 3,
+     "seoUrl": null,
+     "image": {
+      "bucketPath": "/provider/6/3/6-1-595362-13.jpg",
+      "typeName": null
+     },
+     "criticScoreSummary": {
+      "url": "/game/super-mario-galaxy-2/critic-reviews/",
+      "max": 100,
+      "score": 98,
+      "reviewCount": 87,
+      "positiveCount": 87,
+      "neutralCount": 0,
+      "negativeCount": 0,
+      "sentiment": "Universal acclaim"
+     },
+     "genres": [
+      {
+       "id": null,
+       "name": "3D Platformer"
+      }
+     ],
+     "numberOfSeasons": 0,
+     "season": null,
+     "network": null,
+     "platforms": [
+      {
+       "id": 1500000114,
+       "name": "Wii"
+      }
+     ],
+     "inTheaters": false,
+     "description": "Super Mario Galaxy 2, the sequel to the galaxy-hopping original game, includes the gravity-defying, physics-based exploration from the first game, but is ...",
+     "duration": 0,
+     "userScore": {
+      "score": 9
+     }
+    }
+   ],
+   "total": 14434
+  }
+ }
+}

@@ -1,0 +1,63 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "metacritic-scraper"
+version = "0.1.0"
+description = "Scrape Metacritic games, movies and TV shows - Metascores, user scores, critic and user reviews, browse lists and search - via the ScrapeUnblocker API."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "ScrapeUnblocker" }]
+keywords = [
+    "metacritic",
+    "metacritic-scraper",
+    "metascore",
+    "video-games",
+    "game-reviews",
+    "movie-reviews",
+    "tv-shows",
+    "critic-reviews",
+    "user-reviews",
+    "review-scraper",
+    "web-scraping",
+    "scraper",
+    "scrapeunblocker",
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.12",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "Topic :: Internet :: WWW/HTTP :: Indexing/Search",
+    "Topic :: Games/Entertainment",
+]
+dependencies = ["scrapeunblocker>=0.12,<1"]
+
+[project.urls]
+Homepage = "https://scrapeunblocker.com/?utm_source=github&utm_medium=integration&utm_campaign=example-repos"
+Documentation = "https://docs.scrapeunblocker.com/?utm_source=github&utm_medium=integration&utm_campaign=example-repos"
+
+[project.optional-dependencies]
+dev = ["pytest>=7", "ruff>=0.4"]
+
+[project.scripts]
+metacritic-scraper = "metacritic_scraper.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py39"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src", "tests"]
+testpaths = ["tests"]

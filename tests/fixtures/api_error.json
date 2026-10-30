@@ -1,0 +1,19 @@
+{
+ "errors": [
+  {
+   "code": 400,
+   "reason": "Bad Request",
+   "message": "Bad Request"
+  }
+ ],
+ "links": {
+  "self": {
+   "href": "https://backend.metacritic.com/finder/metacritic/web?productType=games&sortBy=-userScore&offset=0&limit=100"
+  }
+ },
+ "meta": {
+  "componentName": null,
+  "componentDisplayName": null,
+  "componentType": null
+ }
+}

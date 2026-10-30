@@ -1,0 +1,44 @@
+{
+ "data": {
+  "id": 5003366416,
+  "totalResults": 45,
+  "items": [
+   {
+    "quote": "By now you’ll have decided if you like the show, and I love it, greedily gobbling down every episode as if it were a sonnet on a plate. Pop on your napkin (cloth, paper, doesn’t matter) and enjoy.",
+    "score": 80,
+    "url": "https://www.theguardian.com/tv-and-radio/article/2024/jun/30/the-week-in-tv-douglas-is-cancelled-the-bear-suranne-jones-investigating-witch-trials-bbc-prime-ministerial-debate-review",
+    "date": "2024-09-10",
+    "author": "Barbara Ellen",
+    "authorSlug": "barbara-ellen",
+    "image": null,
+    "publicationName": "The Observer (UK)",
+    "publicationSlug": "the-observer-uk",
+    "reviewedProduct": {
+     "id": 5003366416,
+     "type": "seasons",
+     "title": "The Bear: Season 3",
+     "url": "/tv/the-bear/season-3/"
+    },
+    "season": null
+   },
+   {
+    "quote": "By the end, many of the questions of season two remain, particularly the types that one might expect a TV dramedy to rush to answer: the resolution of ongoing conflicts and the will-they-won’t-they of a romance. In the end, though, it hardly matters, as Storer has managed to keep the center of interest away from such plot-driven considerations.",
+    "score": 75,
+    "url": "https://www.slantmagazine.com/tv/the-bear-season-three-review/",
+    "date": "2024-07-15",
+    "author": "Pat Brown",
+    "authorSlug": "pat-brown",
+    "image": null,
+    "publicationName": "Slant Magazine",
+    "publicationSlug": "slant-magazine",
+    "reviewedProduct": {
+     "id": 5003366416,
+     "type": "seasons",
+     "title": "The Bear: Season 3",
+     "url": "/tv/the-bear/season-3/"
+    },
+    "season": null
+   }
+  ]
+ }
+}

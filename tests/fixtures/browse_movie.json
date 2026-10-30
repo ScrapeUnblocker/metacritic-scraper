@@ -1,0 +1,167 @@
+{
+ "path": "/browse/movie/all/all/all-time/metascore/?network=netflix",
+ "data": {
+  "browse-movie-/browse/movie/all/all/all-time/metascore/?network=netflix": {
+   "items": [
+    {
+     "id": 2000555066,
+     "type": "movie",
+     "typeId": 2,
+     "title": "Procession",
+     "slug": "procession",
+     "premiereYear": 2021,
+     "releaseDate": "2021-11-19",
+     "rating": "R",
+     "rank": 1,
+     "seoUrl": null,
+     "image": {
+      "bucketPath": "/provider/2/2/2-0893418ac098308132e16bdcd04ea703.jpg",
+      "typeName": null
+     },
+     "criticScoreSummary": {
+      "url": "/movie/procession/critic-reviews/",
+      "max": 100,
+      "score": 90,
+      "reviewCount": 13,
+      "positiveCount": 13,
+      "neutralCount": 0,
+      "negativeCount": 0,
+      "sentiment": "Universal acclaim"
+     },
+     "genres": [
+      {
+       "id": null,
+       "name": "Documentary"
+      }
+     ],
+     "numberOfSeasons": 0,
+     "season": null,
+     "network": null,
+     "platforms": [
+      {
+       "id": 1943,
+       "name": "Netflix"
+      }
+     ],
+     "inTheaters": false,
+     "description": "Six midwestern men — all survivors of childhood sexual assault at the hands of Catholic priests and clergy — come together to direct a drama therapy-inspired ...",
+     "duration": 116,
+     "userScore": {
+      "score": 6.7
+     }
+    },
+    {
+     "id": 2000555563,
+     "type": "movie",
+     "typeId": 2,
+     "title": "Descendant",
+     "slug": "descendant",
+     "premiereYear": 2022,
+     "releaseDate": "2022-10-21",
+     "rating": "PG",
+     "rank": 2,
+     "seoUrl": null,
+     "image": {
+      "bucketPath": "/provider/2/2/2-e56d72f2ff28a38018d004ac836dc209.jpg",
+      "typeName": null
+     },
+     "criticScoreSummary": {
+      "url": "/movie/descendant/critic-reviews/",
+      "max": 100,
+      "score": 87,
+      "reviewCount": 13,
+      "positiveCount": 13,
+      "neutralCount": 0,
+      "negativeCount": 0,
+      "sentiment": "Universal acclaim"
+     },
+     "genres": [
+      {
+       "id": null,
+       "name": "Documentary"
+      },
+      {
+       "id": null,
+       "name": "History"
+      }
+     ],
+     "numberOfSeasons": 0,
+     "season": null,
+     "network": null,
+     "platforms": [
+      {
+       "id": 1943,
+       "name": "Netflix"
+      }
+     ],
+     "inTheaters": false,
+     "description": "Descendant tells the story of the Clotilda - the last known ship to smuggle stolen Africans to America - the unthinkable cover-up, and the impact of that crime ...",
+     "duration": 109,
+     "userScore": {
+      "score": 6.9
+     }
+    },
+    {
+     "id": 2000558678,
+     "type": "movie",
+     "typeId": 2,
+     "title": "Between the Temples",
+     "slug": "between-the-temples",
+     "premiereYear": 2024,
+     "releaseDate": "2024-08-23",
+     "rating": "R",
+     "rank": 3,
+     "seoUrl": null,
+     "image": {
+      "bucketPath": "/provider/7/2/7-1719251274.jpg",
+      "typeName": null
+     },
+     "criticScoreSummary": {
+      "url": "/movie/between-the-temples/critic-reviews/",
+      "max": 100,
+      "score": 83,
+      "reviewCount": 30,
+      "positiveCount": 28,
+      "neutralCount": 2,
+      "negativeCount": 0,
+      "sentiment": "Universal acclaim"
+     },
+     "genres": [
+      {
+       "id": null,
+       "name": "Comedy"
+      },
+      {
+       "id": null,
+       "name": "Drama"
+      }
+     ],
+     "numberOfSeasons": 0,
+     "season": null,
+     "network": null,
+     "platforms": [
+      {
+       "id": 3001,
+       "name": "Prime Video"
+      },
+      {
+       "id": 2806,
+       "name": "Vudu"
+      },
+      {
+       "id": 1943,
+       "name": "Netflix"
+      }
+     ],
+     "inTheaters": false,
+     "description": "A cantor (Jason Schwartzman) in a crisis of faith finds his world turned upside down when his grade school music teacher (Carol Kane) re-enters his life as his ...",
+     "duration": 111,
+     "userScore": {
+      "score": 6.8
+     }
+    }
+   ],
+   "total": 50
+  }
+ }
+}

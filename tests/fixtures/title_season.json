@@ -1,0 +1,536 @@
+{
+ "path": "/tv/the-bear/season-3/",
+ "data": {
+  "loadPage:shows-seasons:the-bear/season/season-3:": {
+   "components": [
+    {
+     "data": {
+      "item": {
+       "id": 1000366416,
+       "type": "show",
+       "typeId": 1,
+       "title": "The Bear",
+       "slug": "the-bear",
+       "premiereYear": 2022,
+       "releaseDate": "2022-06-23",
+       "description": "Chef Carmen \"Carmy\" Berzatto (Jeremy Allen White) returns home to run his family's sandwich shop in Chicago where he faces issues with running a small business, his new employees and his family.",
+       "images": [
+        {
+         "bucketPath": "/provider/2/2/2-3d0fafa697c8effe0b94434484a3557a.jpg",
+         "typeName": "mainImage"
+        },
+        {
+         "bucketPath": "/provider/2/2/2-2f34d2d887817b416dc0327b225d0c1d.jpg",
+         "typeName": "cardImage"
+        }
+       ],
+       "image": {
+        "bucketPath": "/provider/2/2/2-3d0fafa697c8effe0b94434484a3557a.jpg"
+       },
+       "production": {
+        "companies": [
+         {
+          "id": 4020216537,
+          "typeId": 3,
+          "typeName": "Production Company",
+          "name": "FX Productions",
+          "url": null
+         },
+         {
+          "id": 4020856237,
+          "typeId": 3,
+          "typeName": "Production Company",
+          "name": "Super Frog",
+          "url": null
+         },
+         {
+          "id": 4020060381,
+          "typeId": 4,
+          "typeName": "Distribution Company",
+          "name": "FX Network",
+          "url": null
+         }
+        ],
+        "officialSiteUrl": "https://www.instagram.com/thebearfx",
+        "cast": [
+         {
+          "id": 3002087739,
+          "name": "Jeremy Allen White",
+          "roles": [
+           "Carmen 'Carmy' Berzatto"
+          ],
+          "roleTypeGroupId": 3,
+          "roleTypeGroupName": "Cast",
+          "entertainmentProduct": {
+           "url": "/person/jeremy-allen-white/",
+           "slug": "jeremy-allen-white"
+          }
+         },
+         {
+          "id": 3000609114,
+          "name": "Ebon Moss-Bachrach",
+          "roles": [
+           "Richard 'Richie' Jerimovich"
+          ],
+          "roleTypeGroupId": 3,
+          "roleTypeGroupName": "Cast",
+          "entertainmentProduct": {
+           "url": "/person/ebon-moss-bachrach/",
+           "slug": "ebon-moss-bachrach"
+          }
+         }
+        ],
+        "crew": [
+         {
+          "id": 3003846239,
+          "name": "Christopher Storer",
+          "roles": [
+           "created by"
+          ],
+          "roleTypeGroupId": 2,
+          "roleTypeGroupName": "Written By",
+          "entertainmentProduct": {
+           "url": "/person/christopher-storer/",
+           "slug": "christopher-storer"
+          }
+         },
+         {
+          "id": 3002033604,
+          "name": "Hiro Murai",
+          "roles": [
+           "executive producer"
+          ],
+          "roleTypeGroupId": 5,
+          "roleTypeGroupName": "Produced By",
+          "entertainmentProduct": {
+           "url": "/person/hiro-murai/",
+           "slug": "hiro-murai"
+          }
+         }
+        ]
+       },
+       "criticScoreSummary": {
+        "url": "/tv/the-bear/critic-reviews/",
+        "max": 100,
+        "score": 83,
+        "normalizedScore": 82.7918,
+        "reviewCount": 181,
+        "positiveCount": 155,
+        "neutralCount": 25,
+        "negativeCount": 1,
+        "sentiment": "Universal acclaim"
+       },
+       "tags": [
+        "chef",
+        "chicago-illinois",
+        "family-business",
+        "restaurant-kitchen"
+       ],
+       "genres": [
+        {
+         "id": 2300002005,
+         "name": "Comedy"
+        },
+        {
+         "id": 2300002008,
+         "name": "Drama"
+        }
+       ],
+       "rating": "TV-MA",
+       "duration": 1611,
+       "awards": [
+        {
+         "awardEvent": "Golden Globes, USA",
+         "wins": 5,
+         "nominations": 15
+        },
+        {
+         "awardEvent": "Primetime Emmy Awards",
+         "wins": 22,
+         "nominations": 57
+        }
+       ],
+       "seasonCount": 6,
+       "tagline": null,
+       "networks": [
+        {
+         "id": 4010381865,
+         "name": "HULU",
+         "type": "tv",
+         "url": "/company/hulu-tv/"
+        }
+       ],
+       "imdbLink": "https://www.imdb.com/title/tt14452776/?ref_=ref_ext_metacritic",
+       "imdbId": "tt14452776"
+      }
+     },
+     "meta": {
+      "componentName": "product",
+      "componentDisplayName": "Product",
+      "componentType": "Product"
+     }
+    },
+    {
+     "data": {
+      "item": {
+       "hasOffers": true,
+       "free": [],
+       "rent": [],
+       "buy": [],
+       "flatrate": [
+        {
+         "providerId": 337,
+         "providerName": "Disney Plus",
+         "numberOfSeasons": 5,
+         "link": "https://click.justwatch.com/a?cx=trimmed&r=https%3A%2F%2Fdisneyplus.bn5x.net%2Fc%2F1206980%2F705874%2F9358%3Fu%3Dhttps%253A%252F%252Fwww.disneyplus.com%252Fplay%252F60da223c-d2a0-411a-95c9-665a839371f9%26subId3%3Djustappsvod",
+         "options": [
+          {
+           "qualityType": "4K",
+           "optionCurrency": "$",
+           "optionCurrencyCode": "USD",
+           "offerType": "DEFAULT"
+          }
+         ],
+         "monetization": "flatrate"
+        }
+       ],
+       "ads": [],
+       "meta": {
+        "title": "The Bear",
+        "fullPath": "/us/tv-show/the-bear",
+        "locale": "en_US",
+        "objectType": "show"
+       }
+      }
+     },
+     "meta": {
+      "componentName": "where-to-watch",
+      "componentDisplayName": "Where to Watch",
+      "componentType": "WhereToWatch"
+     }
+    },
+    {
+     "data": {
+      "id": "the-bear",
+      "items": [
+       {
+        "id": 5000366416,
+        "title": "The Bear",
+        "releaseYear": 2026,
+        "premiereDate": "2026-05-05",
+        "description": null,
+        "criticScoreSummary": {
+         "url": "/tv/the-bear/critic-reviews/?season=specials",
+         "max": 100,
+         "score": null,
+         "normalizedScore": null,
+         "reviewCount": null,
+         "positiveCount": null,
+         "neutralCount": null,
+         "negativeCount": null,
+         "sentiment": null
+        },
+        "seasonNumber": 0,
+        "totalEpisodes": 1,
+        "type": "season",
+        "url": "/tv/the-bear/specials/",
+        "episodes": [],
+        "tvTaxonomy": {
+         "show": {
+          "id": 1000366416,
+          "name": "The Bear"
+         },
+         "season": {
+          "id": 5000366416,
+          "name": "Specials"
+         }
+        },
+        "imdbLink": null,
+        "seasonSlug": "specials"
+       },
+       {
+        "id": 5001366416,
+        "title": "The Bear",
+        "releaseYear": 2022,
+        "premiereDate": "2022-06-23",
+        "description": null,
+        "criticScoreSummary": {
+         "url": "/tv/the-bear/critic-reviews/?season=season-1",
+         "max": 100,
+         "score": 88,
+         "normalizedScore": 88.2162,
+         "reviewCount": 24,
+         "positiveCount": 24,
+         "neutralCount": 0,
+         "negativeCount": 0,
+         "sentiment": "Universal acclaim"
+        },
+        "seasonNumber": 1,
+        "totalEpisodes": 8,
+        "type": "season",
+        "url": "/tv/the-bear/season-1/",
+        "episodes": [],
+        "tvTaxonomy": {
+         "show": {
+          "id": 1000366416,
+          "name": "The Bear"
+         },
+         "season": {
+          "id": 5001366416,
+          "name": "Season 1"
+         }
+        },
+        "imdbLink": null,
+        "seasonSlug": "season-1"
+       },
+       {
+        "id": 5002366416,
+        "title": "The Bear",
+        "releaseYear": 2023,
+        "premiereDate": "2023-06-22",
+        "description": null,
+        "criticScoreSummary": {
+         "url": "/tv/the-bear/critic-reviews/?season=season-2",
+         "max": 100,
+         "score": 92,
+         "normalizedScore": 92.1912,
+         "reviewCount": 43,
+         "positiveCount": 43,
+         "neutralCount": 0,
+         "negativeCount": 0,
+         "sentiment": "Universal acclaim"
+        },
+        "seasonNumber": 2,
+        "totalEpisodes": 10,
+        "type": "season",
+        "url": "/tv/the-bear/season-2/",
+        "episodes": [],
+        "tvTaxonomy": {
+         "show": {
+          "id": 1000366416,
+          "name": "The Bear"
+         },
+         "season": {
+          "id": 5002366416,
+          "name": "Season 2"
+         }
+        },
+        "imdbLink": null,
+        "seasonSlug": "season-2"
+       },
+       {
+        "id": 5003366416,
+        "title": "The Bear",
+        "releaseYear": 2024,
+        "premiereDate": "2024-06-26",
+        "description": null,
+        "criticScoreSummary": {
+         "url": "/tv/the-bear/critic-reviews/?season=season-3",
+         "max": 100,
+         "score": 80,
+         "normalizedScore": 79.5385,
+         "reviewCount": 45,
+         "positiveCount": 37,
+         "neutralCount": 7,
+         "negativeCount": 1,
+         "sentiment": "Generally favorable"
+        },
+        "seasonNumber": 3,
+        "totalEpisodes": 10,
+        "type": "season",
+        "url": "/tv/the-bear/season-3/",
+        "episodes": [],
+        "tvTaxonomy": {
+         "show": {
+          "id": 1000366416,
+          "name": "The Bear"
+         },
+         "season": {
+          "id": 5003366416,
+          "name": "Season 3"
+         }
+        },
+        "imdbLink": null,
+        "seasonSlug": "season-3"
+       }
+      ]
+     },
+     "meta": {
+      "componentName": "seasons",
+      "componentDisplayName": "All Seasons",
+      "componentType": "SeasonList"
+     }
+    },
+    {
+     "data": {
+      "id": "the-bear",
+      "item": {
+       "id": 5003366416,
+       "title": "The Bear",
+       "releaseYear": 2024,
+       "premiereDate": "2024-06-26",
+       "description": null,
+       "criticScoreSummary": {
+        "url": "/tv/the-bear/critic-reviews/?season=season-3",
+        "max": 100,
+        "score": 80,
+        "normalizedScore": 79.5385,
+        "reviewCount": 45,
+        "positiveCount": 37,
+        "neutralCount": 7,
+        "negativeCount": 1,
+        "sentiment": "Generally favorable"
+       },
+       "seasonNumber": 3,
+       "totalEpisodes": 10,
+       "type": "season",
+       "url": "/tv/the-bear/season-3/",
+       "episodes": [],
+       "tvTaxonomy": {
+        "show": {
+         "id": 1000366416,
+         "name": "The Bear"
+        },
+        "season": {
+         "id": 5003366416,
+         "name": "Season 3"
+        }
+       },
+       "imdbLink": "https://www.imdb.com/title/tt14452776-3/?ref_=ref_ext_metacritic"
+      }
+     },
+     "meta": {
+      "componentName": "season",
+      "componentDisplayName": "Season",
+      "componentType": "Season"
+     }
+    },
+    {
+     "data": {
+      "id": "the-bear",
+      "items": [
+       {
+        "id": 6029808372,
+        "title": "Tomorrow",
+        "seasonTitle": "Season 3",
+        "releaseDate": "2024-06-26",
+        "episodeNumber": 1,
+        "seasonNumber": 3,
+        "rating": "TV-MA",
+        "description": "The next day and the days that led to it.",
+        "duration": 37,
+        "genres": [],
+        "type": "episode",
+        "typeId": 6,
+        "images": [],
+        "cast": [],
+        "crew": [],
+        "url": "/tv/the-bear/season-3/episode-1-tomorrow/"
+       },
+       {
+        "id": 6032330860,
+        "title": "Next",
+        "seasonTitle": "Season 3",
+        "releaseDate": "2024-06-26",
+        "episodeNumber": 2,
+        "seasonNumber": 3,
+        "rating": "TV-MA",
+        "description": "Carmy sets a new standard.",
+        "duration": 28,
+        "genres": [],
+        "type": "episode",
+        "typeId": 6,
+        "images": [],
+        "cast": [],
+        "crew": [],
+        "url": "/tv/the-bear/season-3/episode-2-next/"
+       }
+      ]
+     },
+     "meta": {
+      "componentName": "episodes",
+      "componentDisplayName": "All Episodes",
+      "componentType": "Episode List"
+     }
+    },
+    {
+     "data": {
+      "item": {
+       "id": null,
+       "max": 100,
+       "score": 80,
+       "reviewCount": 45,
+       "positiveCount": 37,
+       "neutralCount": 7,
+       "negativeCount": 1,
+       "sentiment": "Generally favorable",
+       "url": "/tv/the-bear/critic-reviews/?season=season-3"
+      }
+     },
+     "meta": {
+      "componentName": "critic-score-summary",
+      "componentDisplayName": "Critic Score Summary",
+      "componentType": "MetaScoreSummary"
+     }
+    },
+    {
+     "data": {
+      "id": 5003366416,
+      "totalResults": 45,
+      "item": {
+       "default": [],
+       "positive": [],
+       "neutral": [],
+       "negative": []
+      }
+     },
+     "meta": {
+      "componentName": "critic-reviews",
+      "componentDisplayName": "Critic Reviews",
+      "componentType": "ProductReviewsSummary"
+     }
+    },
+    {
+     "data": {
+      "item": {
+       "id": "5003366416",
+       "max": 10,
+       "score": 6.3,
+       "reviewCount": 149,
+       "positiveCount": 95,
+       "neutralCount": 25,
+       "negativeCount": 29,
+       "sentiment": "Generally favorable",
+       "url": "/tv/the-bear/user-reviews/?season=season-3"
+      }
+     },
+     "meta": {
+      "componentName": "user-score-summary",
+      "componentDisplayName": "User Score Summary",
+      "componentType": "MetaScoreSummary"
+     }
+    },
+    {
+     "data": {
+      "id": "5003366416",
+      "totalResults": 24,
+      "item": {
+       "default": [],
+       "positive": [],
+       "neutral": [],
+       "negative": []
+      }
+     },
+     "meta": {
+      "componentName": "user-reviews",
+      "componentDisplayName": "User Reviews",
+      "componentType": "ProductReviewsSummary"
+     }
+    }
+   ],
+   "meta": {
+    "title": null
+   }
+  }
+ }
+}
